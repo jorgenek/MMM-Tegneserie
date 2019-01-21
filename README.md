@@ -26,10 +26,10 @@ A module for MagicMirror<sup>2</sup> that displays comics from [Dagbladet.no/teg
 ```
 
 ## Config
-| **Option** | **Description** |
-| --- | --- |
-| `updateInterval` | Set to desired update interval (in ms), default is `18000000` (5 hours). |
-| `showColor` | Boolean for displaying true colors instead of greyscale. Default is false |
-| `comicTitle` | The desired comic to be displayed from dagbladet.no. Example: 'lunch', 'pondus', 'nemi'. Default is 'lunch' |
+| **Option** | **Description** || **Default** |
+| --- | --- | --- |
+| `updateInterval` | Set to desired update interval (in ms). | `18000000` (5 hours) |
+| `showColor` | Boolean for displaying true colors instead of greyscale. | false |
+| `comicTitle` | The desired comic to be displayed from dagbladet.no. Example: 'lunch', 'pondus', 'nemi'. | 'lunch |
 
 Heavily inspired by the MagicMirror plugin [DailyDilbert](https://github.com/andrecarlucci/MMM-DailyDilbert).

@@ -1,5 +1,5 @@
 # MMM-Tegneserie
-A module for MagicMirror<sup>2</sup> that displays comics from [Dagbladet.no/tegneserie](https://dagbladet.no/tegneserie).
+A module for MagicMirror<sup>2</sup> that displays Norwegian comics from [Dagbladet.no/tegneserie](https://dagbladet.no/tegneserie).
 
 <img src="lunch.png"></img>
 
